@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="NetworkConnectivityChecker">
+        <attr name="connectedText" format="string" />
+        <attr name="disconnectedText" format="string" />
+    </declare-styleable>
+
+</resources>
